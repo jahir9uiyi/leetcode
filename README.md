@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/jahir9uiyi/leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/jahir9uiyi/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/jahir9uiyi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/jahir9uiyi/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jahir9uiyi/leetcode/tree/master/0200-number-of-islands) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/jahir9uiyi/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
