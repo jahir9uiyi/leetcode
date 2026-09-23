@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/jahir9uiyi/leetcode/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/jahir9uiyi/leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/jahir9uiyi/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/jahir9uiyi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jahir9uiyi/leetcode/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/jahir9uiyi/leetcode/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/jahir9uiyi/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
