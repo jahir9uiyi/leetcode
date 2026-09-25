@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jahir9uiyi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0065-valid-number](https://github.com/jahir9uiyi/leetcode/tree/master/0065-valid-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahir9uiyi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Depth-First Search
 |  |
