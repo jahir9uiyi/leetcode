@@ -50,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/jahir9uiyi/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jahir9uiyi/leetcode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/jahir9uiyi/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jahir9uiyi/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/jahir9uiyi/leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/jahir9uiyi/leetcode/tree/master/0986-interval-list-intersections) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/jahir9uiyi/leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/jahir9uiyi/leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
