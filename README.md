@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jahir9uiyi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/jahir9uiyi/leetcode/tree/master/0065-valid-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jahir9uiyi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahir9uiyi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahir9uiyi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jahir9uiyi/leetcode/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jahir9uiyi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/jahir9uiyi/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/jahir9uiyi/leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
