@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/jahir9uiyi/leetcode/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/jahir9uiyi/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jahir9uiyi/leetcode/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/jahir9uiyi/leetcode/tree/master/0130-surrounded-regions) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jahir9uiyi/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/jahir9uiyi/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
