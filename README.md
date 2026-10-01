@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/jahir9uiyi/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/jahir9uiyi/leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/jahir9uiyi/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jahir9uiyi/leetcode/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/jahir9uiyi/leetcode/tree/master/0130-surrounded-regions) |
@@ -158,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/jahir9uiyi/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/jahir9uiyi/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/jahir9uiyi/leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
