@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jahir9uiyi/leetcode/tree/master/0007-reverse-integer) |
+| [0171-excel-sheet-column-number](https://github.com/jahir9uiyi/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/jahir9uiyi/leetcode/tree/master/0202-happy-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jahir9uiyi/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/jahir9uiyi/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/jahir9uiyi/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/jahir9uiyi/leetcode/tree/master/0065-valid-number) |
+| [0171-excel-sheet-column-number](https://github.com/jahir9uiyi/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jahir9uiyi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahir9uiyi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jahir9uiyi/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
