@@ -11,10 +11,6 @@
  */
 class Solution {
 public:
-    TreeNode* sortedArrayToBST(vector<int>& nums) {
-        return help(nums,0,nums.size()-1);
-    }
-    private:
 TreeNode* help(vector<int>& nums,int left,int right)
 {
     if(left>right) return nullptr;
@@ -26,4 +22,7 @@ TreeNode* help(vector<int>& nums,int left,int right)
 
     return node;
 }
+    TreeNode* sortedArrayToBST(vector<int>& nums) {
+        return help(nums,0,nums.size()-1);
+    }
 };
