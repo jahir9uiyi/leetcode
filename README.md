@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jahir9uiyi/leetcode/tree/master/0994-rotting-oranges) |
 | [1052-grumpy-bookstore-owner](https://github.com/jahir9uiyi/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [2352-equal-row-and-column-pairs](https://github.com/jahir9uiyi/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/jahir9uiyi/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jahir9uiyi/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sliding Window
 |  |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jahir9uiyi/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jahir9uiyi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/jahir9uiyi/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
