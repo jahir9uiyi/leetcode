@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jahir9uiyi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jahir9uiyi/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/jahir9uiyi/leetcode/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/jahir9uiyi/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0904-fruit-into-baskets](https://github.com/jahir9uiyi/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/jahir9uiyi/leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/jahir9uiyi/leetcode/tree/master/0994-rotting-oranges) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jahir9uiyi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0778-swim-in-rising-water](https://github.com/jahir9uiyi/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/jahir9uiyi/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jahir9uiyi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/jahir9uiyi/leetcode/tree/master/0437-path-sum-iii) |
 | [0743-network-delay-time](https://github.com/jahir9uiyi/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/jahir9uiyi/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/jahir9uiyi/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jahir9uiyi/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jahir9uiyi/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/jahir9uiyi/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jahir9uiyi/leetcode/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/jahir9uiyi/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/jahir9uiyi/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/jahir9uiyi/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/jahir9uiyi/leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jahir9uiyi/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/jahir9uiyi/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jahir9uiyi/leetcode/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/jahir9uiyi/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/jahir9uiyi/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/jahir9uiyi/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -111,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/jahir9uiyi/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jahir9uiyi/leetcode/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/jahir9uiyi/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/jahir9uiyi/leetcode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/jahir9uiyi/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2352-equal-row-and-column-pairs](https://github.com/jahir9uiyi/leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -226,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/jahir9uiyi/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/jahir9uiyi/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/jahir9uiyi/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
@@ -235,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/jahir9uiyi/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/jahir9uiyi/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/jahir9uiyi/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Stack
 |  |
@@ -253,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jahir9uiyi/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/jahir9uiyi/leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
