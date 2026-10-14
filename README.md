@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jahir9uiyi/leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/jahir9uiyi/leetcode/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jahir9uiyi/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/jahir9uiyi/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Array
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jahir9uiyi/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/jahir9uiyi/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jahir9uiyi/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
