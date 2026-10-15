@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/jahir9uiyi/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jahir9uiyi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/jahir9uiyi/leetcode/tree/master/0437-path-sum-iii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/jahir9uiyi/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jahir9uiyi/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jahir9uiyi/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/jahir9uiyi/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jahir9uiyi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/jahir9uiyi/leetcode/tree/master/0437-path-sum-iii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/jahir9uiyi/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jahir9uiyi/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jahir9uiyi/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jahir9uiyi/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jahir9uiyi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/jahir9uiyi/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
