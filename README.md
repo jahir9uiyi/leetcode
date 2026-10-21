@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jahir9uiyi/leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/jahir9uiyi/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/jahir9uiyi/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/jahir9uiyi/leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/jahir9uiyi/leetcode/tree/master/0263-ugly-number) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/jahir9uiyi/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jahir9uiyi/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/jahir9uiyi/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jahir9uiyi/leetcode/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jahir9uiyi/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jahir9uiyi/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jahir9uiyi/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jahir9uiyi/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Indexed Tree
 |  |
