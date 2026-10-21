@@ -1,31 +1,28 @@
 class Solution {
 public:
-int x[4]={-1,1,0,0};
-int y[4]={0,0,-1,1};
-bool valid(int i,int j, int n,int m){
-    if(i<0 || i>=n || j<0 || j>=m)
-    {
-        return false;
-    }
-    return true;
+int x[4]={0,0,-1,1};
+int y[4]={1,-1,0,0};
+bool valid(int n,int m,int i,int j){
+    
+    if(i<0 || i>=n || j<0 || j>=m) return 0;
+return 1;
 }
-void fun(vector<vector<char>>& grid,int n, int m,int i, int j,vector<vector<bool>>&vis){
+void bfs(vector<vector<char>>& grid,int n, int m, int i, int j,vector<vector<bool>>&vis){
     vis[i][j]=1;
     for(int k=0;k<4;k++)
     {
-        int row=i+x[k];
-        int col=j+y[k];
-        if(valid(row,col,n,m) && grid[row][col]=='1' && vis[row][col]==0)
-        {
-            fun(grid,n,m,row,col,vis);
+        int r=i+x[k];
+        int c=j+y[k];
+        if(valid(n,m,r,c) && grid[r][c]=='1' && vis[r][c]==0){
+            bfs(grid,n,m,r,c,vis);
         }
     }
-return;
+    return;
 }
     int numIslands(vector<vector<char>>& grid) {
+        int i,j;
         int n=grid.size();
         int m=grid[0].size();
-        int i,j;
         int res=0;
         vector<vector<bool>>vis(n);
         for(int i=0;i<n;i++)
@@ -39,7 +36,7 @@ return;
             {
                 if(grid[i][j]=='1' && vis[i][j]==0)
                 {
-                    fun(grid,n,m,i,j,vis);
+                    bfs(grid,n,m,i,j,vis);
                     res++;
                 }
             }
