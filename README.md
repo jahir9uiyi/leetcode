@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jahir9uiyi/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/jahir9uiyi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jahir9uiyi/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0503-next-greater-element-ii](https://github.com/jahir9uiyi/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/jahir9uiyi/leetcode/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/jahir9uiyi/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0904-fruit-into-baskets](https://github.com/jahir9uiyi/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jahir9uiyi/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/jahir9uiyi/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/jahir9uiyi/leetcode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jahir9uiyi/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/jahir9uiyi/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/jahir9uiyi/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/jahir9uiyi/leetcode/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
