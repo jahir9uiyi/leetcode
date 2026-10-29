@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/jahir9uiyi/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jahir9uiyi/leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/jahir9uiyi/leetcode/tree/master/0148-sort-list) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jahir9uiyi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jahir9uiyi/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/jahir9uiyi/leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/jahir9uiyi/leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jahir9uiyi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/jahir9uiyi/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/jahir9uiyi/leetcode/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jahir9uiyi/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jahir9uiyi/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Graph Theory
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jahir9uiyi/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/jahir9uiyi/leetcode/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -366,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/jahir9uiyi/leetcode/tree/master/0127-word-ladder) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jahir9uiyi/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
