@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/jahir9uiyi/leetcode/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jahir9uiyi/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/jahir9uiyi/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jahir9uiyi/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
