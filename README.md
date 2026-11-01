@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jahir9uiyi/leetcode/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/jahir9uiyi/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jahir9uiyi/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/jahir9uiyi/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/jahir9uiyi/leetcode/tree/master/0202-happy-number) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/jahir9uiyi/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jahir9uiyi/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/jahir9uiyi/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jahir9uiyi/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/jahir9uiyi/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jahir9uiyi/leetcode/tree/master/0198-house-robber) |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/jahir9uiyi/leetcode/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jahir9uiyi/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
