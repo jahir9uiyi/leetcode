@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/jahir9uiyi/leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/jahir9uiyi/leetcode/tree/master/0994-rotting-oranges) |
 | [1052-grumpy-bookstore-owner](https://github.com/jahir9uiyi/leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/jahir9uiyi/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/jahir9uiyi/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jahir9uiyi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/jahir9uiyi/leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jahir9uiyi/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jahir9uiyi/leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/jahir9uiyi/leetcode/tree/master/0148-sort-list) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/jahir9uiyi/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jahir9uiyi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jahir9uiyi/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/jahir9uiyi/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/jahir9uiyi/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jahir9uiyi/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/jahir9uiyi/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## DP on Trees
 |  |
 | ------- |
