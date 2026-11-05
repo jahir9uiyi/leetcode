@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jahir9uiyi/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/jahir9uiyi/leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/jahir9uiyi/leetcode/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jahir9uiyi/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/jahir9uiyi/leetcode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/jahir9uiyi/leetcode/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
