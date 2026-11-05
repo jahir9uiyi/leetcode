@@ -4,7 +4,7 @@ public:
         int res=0;
         for(auto x:nums)
         {
-            res^=x;
+            res=res^x;
         }
         return res;
     }
