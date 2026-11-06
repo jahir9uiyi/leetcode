@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/jahir9uiyi/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jahir9uiyi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/jahir9uiyi/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2747-count-zero-request-servers](https://github.com/jahir9uiyi/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jahir9uiyi/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jahir9uiyi/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jahir9uiyi/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/jahir9uiyi/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/jahir9uiyi/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/jahir9uiyi/leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [2747-count-zero-request-servers](https://github.com/jahir9uiyi/leetcode/tree/master/2747-count-zero-request-servers) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/jahir9uiyi/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jahir9uiyi/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2352-equal-row-and-column-pairs](https://github.com/jahir9uiyi/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2747-count-zero-request-servers](https://github.com/jahir9uiyi/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jahir9uiyi/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jahir9uiyi/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jahir9uiyi/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jahir9uiyi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/jahir9uiyi/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jahir9uiyi/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
