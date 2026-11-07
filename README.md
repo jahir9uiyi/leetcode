@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/jahir9uiyi/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/jahir9uiyi/leetcode/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/jahir9uiyi/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0860-lemonade-change](https://github.com/jahir9uiyi/leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/jahir9uiyi/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/jahir9uiyi/leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/jahir9uiyi/leetcode/tree/master/0994-rotting-oranges) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahir9uiyi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0860-lemonade-change](https://github.com/jahir9uiyi/leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jahir9uiyi/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jahir9uiyi/leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/jahir9uiyi/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
