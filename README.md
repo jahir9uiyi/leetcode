@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/jahir9uiyi/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jahir9uiyi/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jahir9uiyi/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/jahir9uiyi/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jahir9uiyi/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/jahir9uiyi/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jahir9uiyi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jahir9uiyi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jahir9uiyi/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/jahir9uiyi/leetcode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/jahir9uiyi/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
