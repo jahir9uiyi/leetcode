@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jahir9uiyi/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/jahir9uiyi/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jahir9uiyi/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jahir9uiyi/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/jahir9uiyi/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/jahir9uiyi/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jahir9uiyi/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jahir9uiyi/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2352-equal-row-and-column-pairs](https://github.com/jahir9uiyi/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jahir9uiyi/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/jahir9uiyi/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/jahir9uiyi/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jahir9uiyi/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jahir9uiyi/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/jahir9uiyi/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/jahir9uiyi/leetcode/tree/master/1882-process-tasks-using-servers) |
 ## Shortest Path
@@ -479,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jahir9uiyi/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jahir9uiyi/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
