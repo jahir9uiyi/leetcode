@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/jahir9uiyi/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/jahir9uiyi/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/jahir9uiyi/leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/jahir9uiyi/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jahir9uiyi/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jahir9uiyi/leetcode/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jahir9uiyi/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/jahir9uiyi/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jahir9uiyi/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/jahir9uiyi/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jahir9uiyi/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jahir9uiyi/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jahir9uiyi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/jahir9uiyi/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahir9uiyi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/jahir9uiyi/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/jahir9uiyi/leetcode/tree/master/0860-lemonade-change) |
