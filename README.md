@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/jahir9uiyi/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/jahir9uiyi/leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jahir9uiyi/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/jahir9uiyi/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jahir9uiyi/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jahir9uiyi/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sliding Window
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/jahir9uiyi/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jahir9uiyi/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jahir9uiyi/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3693-climbing-stairs-ii](https://github.com/jahir9uiyi/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## DP on Trees
 |  |
 | ------- |
