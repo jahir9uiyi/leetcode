@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jahir9uiyi/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/jahir9uiyi/leetcode/tree/master/0065-valid-number) |
 | [0127-word-ladder](https://github.com/jahir9uiyi/leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/jahir9uiyi/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/jahir9uiyi/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jahir9uiyi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahir9uiyi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jahir9uiyi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jahir9uiyi/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jahir9uiyi/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/jahir9uiyi/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/jahir9uiyi/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/jahir9uiyi/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/jahir9uiyi/leetcode/tree/master/0198-house-robber) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jahir9uiyi/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/jahir9uiyi/leetcode/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/jahir9uiyi/leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/jahir9uiyi/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Simulation
 |  |
 | ------- |
