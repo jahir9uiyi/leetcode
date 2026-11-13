@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/jahir9uiyi/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jahir9uiyi/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/jahir9uiyi/leetcode/tree/master/0127-word-ladder) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jahir9uiyi/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/jahir9uiyi/leetcode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/jahir9uiyi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jahir9uiyi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jahir9uiyi/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/jahir9uiyi/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jahir9uiyi/leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jahir9uiyi/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/jahir9uiyi/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jahir9uiyi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jahir9uiyi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/jahir9uiyi/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/jahir9uiyi/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jahir9uiyi/leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jahir9uiyi/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/jahir9uiyi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jahir9uiyi/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jahir9uiyi/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
