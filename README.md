@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jahir9uiyi/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jahir9uiyi/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/jahir9uiyi/leetcode/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jahir9uiyi/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2235-add-two-integers](https://github.com/jahir9uiyi/leetcode/tree/master/2235-add-two-integers) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/jahir9uiyi/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/jahir9uiyi/leetcode/tree/master/3334-find-the-maximum-factor-score-of-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jahir9uiyi/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jahir9uiyi/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/jahir9uiyi/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jahir9uiyi/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jahir9uiyi/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jahir9uiyi/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/jahir9uiyi/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/jahir9uiyi/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/jahir9uiyi/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/jahir9uiyi/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jahir9uiyi/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jahir9uiyi/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/jahir9uiyi/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/jahir9uiyi/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jahir9uiyi/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jahir9uiyi/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/jahir9uiyi/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3693-climbing-stairs-ii](https://github.com/jahir9uiyi/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## DP on Trees
