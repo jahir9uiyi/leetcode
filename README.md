@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/jahir9uiyi/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jahir9uiyi/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jahir9uiyi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jahir9uiyi/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jahir9uiyi/leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Depth-First Search
 |  |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jahir9uiyi/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jahir9uiyi/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/jahir9uiyi/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jahir9uiyi/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
