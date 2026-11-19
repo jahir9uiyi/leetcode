@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/jahir9uiyi/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/jahir9uiyi/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jahir9uiyi/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/jahir9uiyi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/jahir9uiyi/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/jahir9uiyi/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/jahir9uiyi/leetcode/tree/master/0200-number-of-islands) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jahir9uiyi/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/jahir9uiyi/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jahir9uiyi/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/jahir9uiyi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/jahir9uiyi/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/jahir9uiyi/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jahir9uiyi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jahir9uiyi/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/jahir9uiyi/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/jahir9uiyi/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/jahir9uiyi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/jahir9uiyi/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/jahir9uiyi/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jahir9uiyi/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jahir9uiyi/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/jahir9uiyi/leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/jahir9uiyi/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/jahir9uiyi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/jahir9uiyi/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jahir9uiyi/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jahir9uiyi/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jahir9uiyi/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/jahir9uiyi/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/jahir9uiyi/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/jahir9uiyi/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/jahir9uiyi/leetcode/tree/master/0234-palindrome-linked-list) |
