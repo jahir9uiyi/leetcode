@@ -6,7 +6,6 @@ public:
         {
             if(res<i) return 0;
             res=max(res,nums[i]+i);
-            if(res>=nums.size()-1) return 1;
         }
         return 1;
     }
